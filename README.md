@@ -12,7 +12,7 @@
 
 Contributing to the AI tooling ecosystem:
 
-[**automaker**](https://github.com/illia1f/automaker) · [**Auto-Claude**](https://github.com/illia1f/Auto-Claude) · [**claude-forge**](https://github.com/illia1f/claude-forge) · [**Custom-Claude-Code-Statusline**](https://github.com/illia1f/Custom-Claude-Code-Statusline)
+[**automaker**](https://github.com/illia1f/automaker) · [**Auto-Claude**](https://github.com/illia1f/Auto-Claude) · [**claude-forge**](https://github.com/illia1f/claude-forge) · [**Custom-Claude-Code-Statusline**](https://gist.github.com/illia1f/d38ca810d7ce10315498ded0871a7240) · [**Claude-Dangerous-Mode**](https://gist.github.com/illia1f/c18bad01cdc388f5f32628e3674018cd)
 
 ---
 
